@@ -11,8 +11,10 @@
 
 - 💬 Facinado por tecnologia, desde pequeno, comecei a estudar TI e Desenvolvimento Web em 2023 e estou sempre procurando evoluir, seja buscando conhecimento em diversas áreas para ter uma melhora profissional e pessoal, sempre tentando ter uma evolução constante com desafios e metas, cada dia um passo a frente.
 
-[![Gomeszk10's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&)](https://github.com/gomeszk10/github-readme-stats)
-
+<a> [![Gomeszk10's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&)](https://github.com/gomeszk10/github-readme-stats)
+</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszk10&layout=compact&theme=chartreuse-dark)](https://github.com/gomeszk10/github-readme-stats)
+         
 ## Tecnologias que estou estudando :man_technologist:
 
 <div style="display: inline_block">
