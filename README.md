@@ -11,16 +11,26 @@
 
 - 💬 Facinado por tecnologia, desde pequeno, comecei a estudar TI e Desenvolvimento Web em 2023 e estou sempre procurando evoluir, seja buscando conhecimento em diversas áreas para ter uma melhora profissional e pessoal, sempre tentando ter uma evolução constante com desafios e metas, cada dia um passo a frente.
 
-<a> <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+- :eyes: **Curiosidade:** Amo Jogos e Anime;
+
+ <div>
+  <details open="">
+<summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="20">
+  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
+</summary>
+
+ <a> <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszk10&layout=compact&langs_count=7&theme=chartreuse-dark" />
-</a> 
-         
+</a>  
+</div> 
+
 ## Tecnologias que estou estudando :man_technologist:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" height="30" width"40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" height="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" height="30" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="right" height="190" width"150"  alt="Café" src="https://cdn.discordapp.com/attachments/955901245346938880/1097964482162081912/gif_git.gif" />
+  <img align="right" height="150" alt="Café" src="https://cdn.discordapp.com/attachments/955901245346938880/1097964482162081912/gif_git.gif" />
 </div><br/>
 
