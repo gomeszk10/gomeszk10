@@ -11,8 +11,8 @@
 
 - 💬 Facinado por tecnologia, desde pequeno, comecei a estudar TI e Desenvolvimento Web em 2023 e estou sempre procurando evoluir, seja buscando conhecimento em diversas áreas para ter uma melhora profissional e pessoal, sempre tentando ter uma evolução constante com desafios e metas, cada dia um passo a frente.
 
-<a> <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszk10&layout=compact&langs_count=7&theme=chartreuse-dark" />
+<a> <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszk10&layout=compact&langs_count=7&theme=chartreuse-dark" />
 </a> 
          
 ## Tecnologias que estou estudando :man_technologist:
