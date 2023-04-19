@@ -23,3 +23,5 @@
   <img align="center" alt="js" height="30" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="right" height="190" width"150"  alt="Café" src="https://cdn.discordapp.com/attachments/955901245346938880/1097964482162081912/gif_git.gif" />
 </div><br/>
+
+![snake gif](https://github.com/Formandodev/gomeszk10/blob/output/github-contribution-grid-snake.svg)
