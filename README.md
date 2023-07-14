@@ -31,6 +31,6 @@
   <img align="center" alt="html5" height="30" width"40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" height="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" height="30" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="right" height="150" alt="Café" src="https://media.discordapp.net/attachments/788978521652985907/1129263484715151461/IMG_20230619_030836_901.jpg?width=663&height=663" />
+  <img align="right" height="150" alt="Café" src="https://cdn.discordapp.com/attachments/955901245346938880/1097964482162081912/gif_git.gif" />
 </div><br/>
 
