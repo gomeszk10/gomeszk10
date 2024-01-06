@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cafezinho_brz)
 [![Linkedin](https://img.shields.io/badge/linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/guilherme-olivatto-bb2045269)
 
-- 🔭 Pretendo trabalhar com front-end.
+- 🔭 Pretendo me tornar um programador full stack.
 
 - :books: Estudando Análise e Desenvolvimento de Sistemas.
 
