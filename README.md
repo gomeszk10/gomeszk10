@@ -1,36 +1,40 @@
-## Olá!! Eu sou Guilherme Olivatto! 🖐️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=6A99E9&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBW9wEtuYbZa5fxuEhP3X5A)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.olivatto/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cafezinho_brz)
-[![Linkedin](https://img.shields.io/badge/linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/guilherme-olivatto-bb2045269)
+##  Guilherme Gomes Olivatto  
 
-- 🔭 Pretendo me tornar um programador full stack.
+- 📚 Análise e Desenvolvimento de Sistemas
+- 👨🏻‍💻 Desenvolvedor Full-Stack
+- 🧐 Aberto a novas oportunidades e experiências
+- 📌 Brazil, São Paulo
 
-- :books: Estudando Análise e Desenvolvimento de Sistemas.
-
-- 💬 Facinado por tecnologia, desde pequeno, comecei a estudar TI e Desenvolvimento Web em 2023 e estou sempre procurando evoluir, seja buscando conhecimento em diversas áreas para ter uma melhora profissional e pessoal, sempre tentando ter uma evolução constante com desafios e metas, cada dia um passo a frente.
-
-- :eyes: **Curiosidade:** Amo Jogos e Anime;
-
- <div>
-  <details open="">
-<summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="20">
-  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
-</summary>
-
- <a> <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszk10&layout=compact&langs_count=7&theme=chartreuse-dark" />
-</a>  
-</div> 
-
-## Tecnologias que estou estudando :man_technologist:
+ 
+<div style="display: inline_block">
+ <h2> Skills 💻 </h2>
+  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+</div>
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" height="30" width"40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" height="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" height="30" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="right" height="150" alt="Café" src="https://cdn.discordapp.com/attachments/955901245346938880/1097964482162081912/gif_git.gif" />
-</div><br/>
+  <h2> Tools ⚙️</h2>
+    <img align="center" alt="visualstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
 
+
+## Estatistica 📈
+![Guilherme Olivatto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomeszk10&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszk10&layout=compact&theme=tokyonight)
+
+## Contatos ✉️
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-olivatto-bb2045269/])
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeolivatto44@gmail.com)
+   <a href="https://instagram.com/guilherme.olivatto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
